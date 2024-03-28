@@ -23,7 +23,7 @@ E agora: mãos à obra!
 ## 1ª Etapa: Baixando o Firefox
 Antes de tudo, temos que baixar o instalador do Firefox. Acesse o site oficial da Mozilla [clicando aqui](https://www.mozilla.org/pt-BR/firefox/new/), ou no botão abaixo.
 
-> [!IMPORTANT]
+> [!IMPORTANT] IMPORTANTE
 > Sempre baixe um programa em seu site oficial.
 
 ![[ButtonGoToFirefoxDownloadPage-V4.png]]
