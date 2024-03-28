@@ -9,7 +9,7 @@
 
 ----
 
-Antes de mergulharmos no processo de instalação, vale a pena gastar um tempinho entendendo o que é software livre, sua importância e onde o Firefox se encaixa nesse universo. Ou, se já estiver pronto para a ação, pode [clicar aqui para ir direto ao guia de instalação](). Sem ressentimentos.
+Antes de mergulharmos no processo de instalação, vale a pena dedicar um tempinho para entender o que é software livre, sua importância e onde o Firefox se encaixa nesse universo. Ou, se já estiver pronto para a ação, pode [clicar aqui para ir direto ao guia de instalação](). Sem ressentimentos.
 ## Software Livre
 Software livre é...
 
