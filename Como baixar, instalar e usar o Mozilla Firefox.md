@@ -28,12 +28,6 @@ Antes de tudo, temos que baixar o instalador do Firefox. Acesse o site oficial d
 
 [![Ir ao site do Firefox](./assets/ButtonGoToFirefoxDownloadPage-V4.png)](https://www.mozilla.org/pt-BR/firefox/new/)
 
-<a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank" style="margin-left: 30px">
-
-<img src="./assets/ButtonGoToFirefoxDownloadPage-V4.png">
-
-  <a/>
-
 Em seguida, já no site da Mozilla, clique no botão "Baixe o Firefox". Você irá encontrá-lo no canto inferior esquerdo da tela. É um botão grande e azul, não tem erro!
 
 Em alguns segundos o instalador começará a ser baixado automaticamente. O arquivo pesa cerca de 60 Mb e o tempo de download vai depender da sua conexão à internet.
