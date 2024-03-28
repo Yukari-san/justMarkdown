@@ -26,7 +26,10 @@ Antes de tudo, temos que baixar o instalador do Firefox. Acesse o site oficial d
 > [!IMPORTANT]
 > Sempre baixe um programa em seu site oficial.
 
-![[ButtonGoToFirefoxDownloadPage-V4.png]]
+![ButtonGoToFirefoxDownloadPage-V4.png]
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![Ir ao site do Firefox](./assets/ButtonGoToFirefoxDownloadPage-V4.png)]([https://nodesource.com/products/nsolid](https://www.mozilla.org/pt-BR/firefox/new/))
 
 Em seguida, já no site da Mozilla, clique no botão "Baixe o Firefox". Você irá encontrá-lo no canto inferior esquerdo da tela. É um botão grande e azul, não tem erro!
 
