@@ -28,7 +28,7 @@ Antes de tudo, temos que baixar o instalador do Firefox. Acesse o site oficial d
 
 [![Ir ao site do Firefox](./assets/ButtonGoToFirefoxDownloadPage-V4.png)](https://www.mozilla.org/pt-BR/firefox/new/)
 
-<a link="https://www.mozilla.org/pt-BR/firefox/new/">
+<a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank">
 
 <img src="./assets/ButtonGoToFirefoxDownloadPage-V4.png">
 
