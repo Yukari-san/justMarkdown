@@ -38,7 +38,11 @@ Após isso, a instalação iniciará automaticamente. Alguns minutos depois, qua
 ##### Finalizando
 Na primeira instalação, o firefox apresentará algumas opções na tela de boas-vindas. As opções são bem diretas, bastando seguir as instruções do próprio navegador caso queira definir o Firefox como navegador padrão (para já pular de vez no barco), importar seus dados do antigo navegador e etc.
 
+![](https://raw.githubusercontent.com/Yukari-san/justMarkdown/main/assets/firefox_boas_vindas.png)
+
 Para abrir o Firefox posteriormente, basta dar dois cliques em seu ícone, que você irá encontrar na área de trabalho de seu navegador.
+
+![](https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2021-08-31-10-42-04-4de77b.png)
 # Como usar o Firefox
 Os navegadores atuais tendem a seguir um padrão já bem definido. De qualquer forma, vamos conferir as funcionalidades básicas deste navegador.
 ### 1. Como acessar sites da web
