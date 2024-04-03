@@ -36,7 +36,7 @@ Após isso, a instalação iniciará automaticamente. Alguns minutos depois, qua
 
 ![](https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2021-08-31-10-46-28-3a993b.png)
 ##### Finalizando
-Na primeira instalação, o firefox apresentará algumas opções na tela de boas-vindas. As opções são bem diretas, bastando seguir as instruções do próximo navegador caso queira definir o Firefox como navegador padrão (para já pular de vez no barco), importar seus dados do antigo navegador e etc.
+Na primeira instalação, o firefox apresentará algumas opções na tela de boas-vindas. As opções são bem diretas, bastando seguir as instruções do próprio navegador caso queira definir o Firefox como navegador padrão (para já pular de vez no barco), importar seus dados do antigo navegador e etc.
 
 Para abrir o Firefox posteriormente, basta dar dois cliques em seu ícone, que você irá encontrar na área de trabalho de seu navegador.
 # Como usar o Firefox
@@ -50,4 +50,4 @@ Para abrir uma nova aba (ou guia, como preferir), basta clicar no "+" que fica d
 ### 4. Sincronização
 Já que o Mozilla Firefox está disponível também no celular, carregar seus dados de navegação entre plataformas é uma das grandes opções nos dias de hoje. Caso você queira sincronizar seus dados, basta clicar no símbolo que se assemelha à silhueta de uma pessoa dentro de um círculo. O Firefox lhe redirecionará para uma página onde você deverá introduzir seu email, seja para entrar em uma conta Mozilla já existente, ou para cadastrar-se.
 ### 5. Utilizando o pocket da Mozilla
-O Pocket permite ao usuário salvar. Do lado esquerdo do ícone da silhueta de uma pessoa dentro de um círculo, você verá outro símbolo, contendo um ">" apontado para baixo. Este é o símbolo do Pocket. Para usar o Pocket, é necessário ter uma conta Mozilla. Tendo uma conta, basta clicar no símbolo em qualquer página para salvar a página no Pocket. Você pode, então, baixar o app do Pocket para celular e acessar as páginas salvas de qualquer lugar. No celular, as páginas ficam salvas mesmo offline e com uma visualização mais bonita.
+O Pocket permite ao usuário salvar páginas web para ler onde quiser. Do lado esquerdo do ícone da silhueta de uma pessoa dentro de um círculo, você verá outro símbolo, contendo um ">" apontado para baixo. Este é o símbolo do Pocket. Para usar o Pocket, é necessário ter uma conta Mozilla. Tendo uma conta, basta clicar no símbolo estando em qualquer página para salvar essa página no Pocket. Você pode, então, baixar o app do Pocket para celular e acessar as páginas salvas de qualquer lugar. No celular, as páginas ficam salvas mesmo offline e com uma visualização mais bonita.
