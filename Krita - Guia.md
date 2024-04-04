@@ -1,3 +1,4 @@
+O Krita é um software profissional de ilustração, de código aberto e multiplataforma. Nesta página, veremos: como instalar o Krita, como fazer o uso básico do programa e uma comparação com outro software de ilustração.
 # Como baixar e instalar
 ## 1. Baixando o instalador
 Para instalar o Krita no seu computador, primeiro é necessário baixar o instalador do site oficial. [Acesse o site oficial clicando aqui](https://krita.org/en/).
