@@ -51,7 +51,7 @@ Por fim, marque a opção "**Create a desktop icon**", se já não estiver marca
 Quando for finalizada, clique em "**Close**" para fechar o instalador. Prontinho, o Krita está instalado no seu computador! Para abri-lo basta dar dois cliques em seu ícone na área de trabalho.
 # Usando o Krita
 ### Meu Krita está em inglês!
-Se ao abrir o programa pela primeira vez ele estiver em inglês, basta clicar em "**Settings**", depois "**Switch Application Language**" e trocar a opção do dropdown de "American English" para "português (Brasil)".
+Se ao abrir o programa pela primeira vez ele estiver em inglês, basta clicar em "**Settings**", depois "**Switch Application Language**" e trocar a opção do dropdown de "American English" para "português (Brasil)". Depois de reiniciar o Krita o programa já deve estar em português.
 
 ![Imagem aqui](https://github.com/Yukari-san/justMarkdown/blob/main/assets/krita_print_01.png?raw=true)
 ### Criando um novo arquivo
