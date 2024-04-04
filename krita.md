@@ -57,7 +57,7 @@ Se ao abrir o programa pela primeira vez ele estiver em inglês, basta clicar em
 ### Criando um novo arquivo
 Para criar um novo arquivo, na tela inicial do Krita clique em "**Nova imagem**". Você também pode clicar em "**Arquivo**" na barra superior, e depois em "**Novo**".
 
-Surgirá uma pequena janela com várias opções de personalização. Modifique o tamanho e a cor da imagem que está prestes a ser criado como quiser. Em seguida clique em "**Criar**".
+Surgirá uma pequena janela com várias opções de personalização. Modifique o tamanho e a cor da imagem que está prestes a ser criada como quiser. Em seguida clique em "**Criar**".
 ### Movimentando-se no Krita
 Para dar zoom na imagem, basta rolar o scroll do mouse. Também pode-se usar a "Ferramenta Zoom" para fazer o mesmo. A diferença é que para dar zoom nesta ferramenta basta clicar com o botão esquerdo. Você pode diminuir o zoom segurando a tecla CTRL enquanto clica com o botão direito.
 
