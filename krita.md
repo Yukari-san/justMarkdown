@@ -1,5 +1,5 @@
 # Como baixar e instalar
-O Krita é um software profissional de ilustração. Ele é gratuito, multiplataforma (Windows, Linux e MacOs) e de código aberto. Neste guia de instalação, veremos como instalar o Krita no Windows.
+O Krita é um software profissional de pintura. Ele é gratuito, multiplataforma (Windows, Linux e MacOs) e de código aberto. Neste guia de instalação, veremos como instalar o Krita no Windows.
 ## 1. Baixando o instalador
 Para instalar o Krita no seu computador, primeiro é necessário baixar o instalador do site oficial. [Acesse o site oficial clicando aqui](https://krita.org/en/).
 
