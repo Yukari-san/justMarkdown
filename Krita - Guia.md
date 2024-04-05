@@ -1,3 +1,4 @@
+# Krita
 O Krita é um software profissional de ilustração, de código aberto e multiplataforma. Nesta página, veremos: como instalar o Krita, como fazer o uso básico do programa e uma comparação com outro software de ilustração.
 # Como baixar e instalar
 ## 1. Baixando o instalador
@@ -61,7 +62,7 @@ Para criar um novo arquivo, na tela inicial do Krita clique em "**Nova imagem**"
 
 Surgirá uma pequena janela com várias opções de personalização. Modifique o tamanho e as cores da imagem que está prestes a ser criada como quiser. Em seguida clique em "**Criar**".
 ### Movimentando-se no Krita
-Para dar zoom na imagem, basta rolar o scroll do mouse. Também pode-se usar a "**Ferramenta Zoom**" para fazer o mesmo. A diferença é que, para dar zoom nesta ferramenta, basta clicar com o botão esquerdo. Você pode diminuir o zoom segurando a tecla CTRL enquanto clica com o botão direito.
+Para dar zoom na imagem, basta rolar o scroll do mouse. Também pode-se usar a "**Ferramenta Zoom**" para fazer o mesmo. A diferença é que, para dar zoom nesta ferramenta, basta clicar com o botão esquerdo. Você pode diminuir o zoom segurando a tecla CTRL enquanto clica com o botão esquerdo.
 
 Para mover-se pela tela de pintura, segure o botão do meio e arraste o mouse pela tela. Você pode fazer a mesma coisa clicando na "**Ferramenta de posicionamento**", que tem o símbolo de mãozinha, e arrastar o mouse na tela clicando com o botão esquerdo.
 ### Desenhando
@@ -69,9 +70,10 @@ Para desenhar no Krita é simples: basta selecionar a "**Ferramenta de traços l
 
 ![Desenho de uma garota com cabelo volumoso, óculos redondo e máscara](https://github.com/Yukari-san/justMarkdown/blob/main/assets/krita_print_03.png?raw=true)
 # Comparação entre ferramentas
-Esta página não estaria completa sem uma pequena comparação entre o Krita e outro programa de mesmo nicho. Por isso, vamos comparar o Krita com um dos softwares de ilustração mais usados do mercado: Clip Studio Paint!
+Esta página não estaria completa sem uma pequena comparação entre o Krita e outro programa de mesmo nicho. Por isso, vamos comparar o Krita com um dos softwares de ilustração mais usados do mercado: o Clip Studio Paint!
 ### Vantagens do Krita
 - Gratuito e de código aberto;
+- Multiplataforma (Windows, Linux, macOS, Android, ChromeOS)
 - Interface intuitiva;
 - Comunidade acolhedora;
 - Grande número de tutoriais e guias gratuitos produzidos pela comunidade;
@@ -84,14 +86,14 @@ Esta página não estaria completa sem uma pequena comparação entre o Krita e 
 - Pode não ser tão intuitivo em situações específicas.
 ### Vantagens do Clip Studio Paint
 - Versátil;
-- Multiplataforma (Windows, MacOS, Android, IOS);
+- Multiplataforma (Windows, macOS, Android, iOS);
 - Pincéis de incrível qualidade;
 - Grande biblioteca de recursos disponíveis para uso no programa;
 - Licença de pagamento único;
 - Pode ser usado para fazer animações;
 - Muito bom em histórias em quadrinhos.
 ### Desvantagens do Clip Studio Paint
-- Bem caro;
+- A licença é bem cara;
 - Grande curva de aprendizado;
 - A versão PRO tem algumas limitações;
 - Acesso a grandes atualizações é por assinatura.
